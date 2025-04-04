@@ -1,0 +1,19 @@
+2025-04-04 03:00:15.749744 - Received CBT.V508.FILE078.PDS from FILE078.XMI 
+2025-04-04 03:00:15.750825 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/$$$#DATE
+2025-04-04 03:00:15.750978 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/$$$DOC
+2025-04-04 03:00:15.751167 - Found $CHANGLG.txt (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/$CHANGLG
+2025-04-04 03:00:15.751338 - Found $README.txt (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/$README
+2025-04-04 03:00:15.751461 - Found $WARRANT.txt (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/$WARRANT
+2025-04-04 03:00:15.751580 - Found #EBUPDTE.jcl (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/#EBUPDTE
+2025-04-04 03:00:15.751702 - Found #PDSLOAD.jcl (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/#PDSLOAD
+2025-04-04 03:00:15.751826 - Found @FILE078.txt (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/@FILE078
+2025-04-04 03:00:15.751990 - Found @INFO.txt (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/@INFO
+2025-04-04 03:00:15.752129 - Found CLISTS.txt (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/CLISTS
+2025-04-04 03:00:15.752244 - Found ISPCMDS.txt (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/ISPCMDS
+2025-04-04 03:00:15.752363 - Found MESSAGES.txt (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/MESSAGES
+2025-04-04 03:00:15.752477 - Found MVS.txt (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/MVS
+2025-04-04 03:00:15.752616 - Found PANELS.txt (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/PANELS
+2025-04-04 03:00:15.752772 - Found REXX.txt (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/REXX
+2025-04-04 03:00:15.752893 - Found SKELETNS.txt (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/SKELETNS
+2025-04-04 03:00:15.753012 - Found SPFPC.txt (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/SPFPC
+2025-04-04 03:00:15.753138 - Found TSURX.rexx (text/plain) in CBT.V508.FILE078.PDS, moved to PDS/TSURX
